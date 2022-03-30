@@ -1,0 +1,3 @@
+3 - O que é desenvolvimento global e distribuído de software?
+é um modelo de desenvolvimento de software onde os envolvidos em um determinado projeto estão dispersos, e suas principais características são a distância física, diferença de fuso horário e diferenças culturais. O desenvolvimento distribuído de software é baseado no gerenciamento de projetos, onde cada equipe é responsável por um determinado artefato do software.
+wilson
