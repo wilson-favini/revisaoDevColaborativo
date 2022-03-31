@@ -1,2 +1,2 @@
-11. Quais as três formas de se enxergar o desenvolvimento de software na visãoDevpOps?
+12. Quais as três formas de se enxergar o desenvolvimento de software na visãoDevpOps?
 Três olhares, três perspectivas diferentes sobre os comportamentos e práticas de DevOps. Olhar sob o fluxo de tarefas (Flow), olhar focado sob a comunicação do feedback, olhar sob o aprendizado e melhoria contínua dos processos.
