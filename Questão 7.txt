@@ -1,0 +1,2 @@
+Questão 7: Faça um estudo das ferramentas Github/Gitlab. Quais vantagens tais ferramentas oferencemna implementação da abordagem DevOps?
+	R: Permitir controle de versão dos projetos, que o desenvolvimento seja feito em diversos profissionais diferentes evitando conflito entre os mesmos
