@@ -1,0 +1,8 @@
+Questão 4: Como podemos atacar os desafios e complexidades do desenvolvimento de software global edistribuído?
+	R: • Trabalho parcialmente feito não gera entrega;
+	   • Processos extras, sem sentido, aumentam o tempo de espera;
+	   • Recursos extras, não solicitados pelo cliente, aumentam o tempo de espera;
+	   • Muitas tarefas ao mesmo tempo e constantes interrupções aos desenvolvedores aumento o tempo de espera. Que tal estebelecer a hora do café e momentos sociais ?
+	   • O desenvolvedor esperar o ambiente de testes e desenvolvimento gerar prejuízo global na empresa ...
+	   • Trabalho manual que poderia ser automatizado é desperdício de recursos humanos;
+	   • Heróis trabalhando fora de horário, com milhares de solicitações para atender, geram problemas psicológicos (burnout) e diminuição da produtividade no longo prazo... e prejuízos financeiros quando eles deixam o time por motivos de saúde.
