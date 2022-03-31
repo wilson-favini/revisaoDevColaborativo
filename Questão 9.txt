@@ -1,4 +1,4 @@
-8 - Cite dez fatores que podem impactar a performance de um projeto dedesenvolvimento, na visão DevOps?
+9 - Cite dez fatores que podem impactar a performance de um projeto dedesenvolvimento, na visão DevOps?
 1. Não definir uma estratégia de automação;
 2. Não alinhar a automação a um forte plano de negócios;
 3. Apressar a implementação de processos de automação;
