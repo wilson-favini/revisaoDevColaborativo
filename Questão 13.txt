@@ -1,0 +1,5 @@
+Questão 13: Indique 10 desperdícios de recursos que podem ocorrer no processo dedesenvolvimento de software.
+	R: 1- Troca de pessoas desnecessaria
+	   2- Muitas pessoas em uma fase so, sobrecarregando os proximo
+	   3- 
+		
