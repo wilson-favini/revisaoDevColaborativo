@@ -1,0 +1,3 @@
+Questão 30 - O que é aprimorar a qualidade na origem na visão do desenvolvimento de software?
+	R: Motivar o aprimoramento da Qualidade estabelecida logo no primeiro esforço de 
+produção, durante a execução do processo.
