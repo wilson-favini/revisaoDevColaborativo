@@ -1,0 +1,3 @@
+Questão 19 - Por que não é uma boa estratégia tentar aprimorar os processos de trabalho “mais fáceis deserem otimizados primeiro”?
+	R:Caso os processos sejam otimizados antes dos gargalos serem suprimidos, poderá piorar o 
+gargalo fazendo com que toda a eficácia do Kanban se torne inútil
