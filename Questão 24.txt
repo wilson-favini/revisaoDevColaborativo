@@ -1,2 +1,5 @@
-23. Faça uma pesquisa sobre a metodologia scrum. Como tal metodologia se encaixa no contextode DevOps?
-Essas duas metodologias podem ser aplicadas de maneira independente. Porém, com o cenário atual e os problemas que surgem na elaboração e desenvolvimento de um projeto, a união dos dois métodos possibilita correções rápidas conforme novas demandas e exigências, além de garantir do cliente feedbacks constantes.
+24. O que é telemetria no contexto DevOps?
+A telemetria é um feedback em tempo real e, ao inserir dados de telemetria em seu 
+ambiente, as equipes de DevOps podem automatizar o mecanismo de feedback enquanto 
+monitoram os aplicativos em tempo real. Tudo o que pode ser monitorado pode ser medido e, 
+assim, melhorado.
