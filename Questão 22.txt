@@ -1,0 +1,12 @@
+Questão 22 - Faça uma pesquisa e descubra 10 dificuldades e desperdícios comuns no desenvolvimento de
+software, que aumentam o tempo de espera.
+	R:1- Recurso financeiro restrito
+	  2- Custos de infraestrutura
+	  3- Necessidade de retrabalho
+	  4- Dificuldade de suporte com os fornecedores
+	  5- Demora de Feedback dos clientes
+	  6- Análise de requisitos
+	  7- Descontrole Tempo
+	  8- Complexidade e eficiência
+	  9- Mudanças durante o desenvolvimento de software
+	 10- Dificuldades na utilização do produto
