@@ -1,0 +1,6 @@
+35. Faça uma pesquisa e descreva o modelo organizacional Westrum.
+A ideia de que uma boa cultura que otimiza o fluxo de informações é preditiva de bons resultados não é uma ideia nova, ela é baseada em uma pesquisa do sociólogo Dr. Ron Westrum. A pesquisa de Westrum incluiu fatores humanos na segurança de sistemas, particularmente no contexto de acidentes em setores tecnológicos, como aviação e saúde.
+Ao longo desse trabalho com campos de alto risco e alta complexidade, Westrum observou que essa cultura influencia a maneira como as informações fluem por uma organização. Westrum apresenta três características de boas informações:
+1. Elas fornecem respostas para as perguntas que o receptor quer que sejam respondidas.
+2. Elas são oportunas.
+3. Elas são apresentadas de forma que o receptor possa usá-las efetivamente.
