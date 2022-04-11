@@ -1,0 +1,7 @@
+38. Cite 5 maneiras de transformar “aprendizado local” em “aprendizado organizacional”.
+1. Nós estabelecemos uma cultural geracional, lutando para criar um sistema de trabalho seguro;
+2. Quando acidentes e falhas ocorrem, ao invés de procurar o culpado, nós buscamos melhorar o sistema de trabalho para prevenir que tal erro ocorra novamente;
+3. Tais análises minunciosas geram conhecimento organizacional;
+A ideia é remover “a busca pelos culpados” e colocar o serviço “aprendizado organizacional” no lugar;
+4. Organizações se tornam mais auto-diagnosticáveis, mais auto-aperfeiçoáveis, mais ábeis na detecção e solução de problemas; (fundamental para empresas de tecnologia).
+5. Conforme disse o engenheiro Bethany Macri: “Removendo a culpa, removemos o medo; removendo o medo, nós geramos a honestidade; a honestidade facilita a prevenção”;
