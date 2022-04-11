@@ -1,0 +1,2 @@
+Questão 39 - O que é injetar resiliência no trabalho?
+	R:Injetamos e simulamos falhas em nossos serviços de produção de maneira controlada para aumentar nossa resiliência. Criando um sistema dinâmico e contínuo de aprendizado, nos possibilitamos que os times de trabalho se adaptem rapidamente à eterna mudança, o que nos ajuda a aumentar nossa participação no mercado.
