@@ -1,1 +1,6 @@
 14 - Indique 5 atividades que podem ser automatizadas no processo dedesenvolvimento de software.
+teste de software
+controle de versão
+deploy
+atendimento chat boot
+geração automatica de relatorios 
