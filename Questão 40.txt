@@ -1,0 +1,3 @@
+40. Explique o conceito “aplicar stress” para aumentar a resiliência.
+Fazer experimentos controlados para testar como os existentes reagiriam em caso de um evento atípico. Ex: Cortar o prazo pela metade para valiar como a linha de montagem reagiria, se a produtidade aumentaria se os erros aumentariam;
+O processo de aplicar stress para aumentar a resiliência foi denominado “antifragilidade” pelo autor e analista de riscos “Nassim Taleb”;
