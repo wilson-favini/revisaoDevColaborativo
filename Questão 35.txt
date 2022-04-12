@@ -4,3 +4,6 @@ Ao longo desse trabalho com campos de alto risco e alta complexidade, Westrum ob
 1. Elas fornecem respostas para as perguntas que o receptor quer que sejam respondidas.
 2. Elas são oportunas.
 3. Elas são apresentadas de forma que o receptor possa usá-las efetivamente.
+
+Verifricação
+João Henrique: OK

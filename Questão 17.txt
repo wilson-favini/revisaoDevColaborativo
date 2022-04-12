@@ -1,2 +1,5 @@
 17. Que outras ferramentas poderiam ser utilizadas para visualizar o trabalho deuma equipe dedesenvolvedores e identificar os gargalos?
 podem ser visualizados rapidamente com KANBAN e outras metodologias ágeis
+
+Verifricação
+João Henrique: OK

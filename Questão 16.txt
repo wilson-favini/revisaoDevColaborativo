@@ -1,2 +1,5 @@
 Questão 16 - Qual a vantagem de se utilizar kanban no contexto de devops?
 	R- A principal vantagem que o Kanban tem é que ele incentiva as equipes a se concentrarem na melhoria do fluxo no sistema. À medida que as equipes adotam o Kanban, elas se tornam boas em entregar continuamente o trabalho que completaram. Assim, o Kanban facilita a realização de lançamentos incrementais de produtos com pequenos pedaços de novas funcionalidades ou correções de defeitos. Esta característica do Kanban o torna bem adaptado às exigências de entrega e implantação contínuas do DevOps.
+
+Verifricação
+João Henrique: OK

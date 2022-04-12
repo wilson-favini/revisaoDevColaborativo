@@ -1,3 +1,6 @@
 Questão 25 - Do ponto de vista do aprimoramento de “feedback”, como podemos tornar umsistema de trabalho seguro?
 	R:Feedbacks rápido e frequentes, com informações de qualidade para que possa se 
 localizar problemas ou pontos de aprimoramento, feitos de forma organizada.
+
+Verifricação
+João Henrique: OK

@@ -1,2 +1,5 @@
 42. O que é sistema de controle de versões distribuído?
 São vários repositórios autônomos e independentes, um para cada desenvolvedor. Cada repositório possui uma área de trabalho acoplada e as operações commit e update acontecem localmente entre os dois.
+
+Verifricação
+João Henrique: OK

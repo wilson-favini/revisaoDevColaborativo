@@ -3,3 +3,6 @@ A telemetria é um feedback em tempo real e, ao inserir dados de telemetria em s
 ambiente, as equipes de DevOps podem automatizar o mecanismo de feedback enquanto 
 monitoram os aplicativos em tempo real. Tudo o que pode ser monitorado pode ser medido e, 
 assim, melhorado.
+
+Verifricação
+João Henrique: OK

@@ -1,2 +1,5 @@
 Questão 37 - Como podemos transformar “aprendizado local” em “aprendizadoorganizacional”?
 	R: Após cada incidente, é conduzido um trabalho de análise e investigação minunciosa do problema, para entender como o acidente ocorreu e como o sistema pode ser melhorado de forma a alcançar a detecção e recuperação rápida. Tais análises minunciosas geram conhecimento organizacional
+
+Verifricação
+João Henrique: OK

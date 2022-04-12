@@ -6,3 +6,6 @@ Questão 4: Como podemos atacar os desafios e complexidades do desenvolvimento d
 	   • O desenvolvedor esperar o ambiente de testes e desenvolvimento gerar prejuízo global na empresa ...
 	   • Trabalho manual que poderia ser automatizado é desperdício de recursos humanos;
 	   • Heróis trabalhando fora de horário, com milhares de solicitações para atender, geram problemas psicológicos (burnout) e diminuição da produtividade no longo prazo... e prejuízos financeiros quando eles deixam o time por motivos de saúde.
+
+Verifricação
+João Henrique: OK

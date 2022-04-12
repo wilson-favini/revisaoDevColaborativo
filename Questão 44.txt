@@ -1,2 +1,5 @@
 Questão 44 - Descreva o git “workflow” básico.
 	R:O Git Workflow é uma receita ou recomendação de como usar o Git para realizar o trabalho de maneira consistente e produtiva.
+
+Verifricação
+João Henrique: OK

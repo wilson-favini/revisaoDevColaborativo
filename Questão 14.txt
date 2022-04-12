@@ -4,3 +4,6 @@ controle de versão
 deploy
 atendimento chat boot
 geração automatica de relatorios 
+
+Verifricação
+João Henrique: OK

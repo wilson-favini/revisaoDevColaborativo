@@ -1,2 +1,5 @@
 Questão 33 - Escreva uma descrição em pelo 30 linhas de como funciona o Scrum.
 	R:Scrum é uma estrutura para gerenciamento de projeto de maneira ágil. Ela foi criada principalmente para projetos de desenvolvimento de software, cujo objetivo é disponibilizar novos recursos de software a cada 2 a 4 semanas. Apesar de ser utilizada mais frequentemente por equipes de desenvolvimento de software, os princípios e fases do scrum podem ser aplicados a qualquer tipo de trabalho em equipe. Isso porque se trata de uma estrutura, ou framework, flexível e funcional, podendo ser adaptada aos problemas que diferentes equipes enfrentam, como de marketing, por exemplo. Em resumo, Scrum é um framework de gerenciamento de projetos ágil, utilizado para descrever um conjunto de reuniões, ferramentas e funções para cada membro da equipe para ajudá-los a gerenciar seu trabalho.
+
+Verifricação
+João Henrique: OK

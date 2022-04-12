@@ -1,2 +1,5 @@
 5 - O que é DevOps?
 é uma abordagem de cultura, automação e design de plataforma que tem como objetivo agregar mais valor aos negócios e aumentar sua capacidade de resposta às mudanças por meio de entregas de serviços rápidas e de alta qualidade. Isso tudo é possível por meio da disponibilização de serviços de TI iterativa e rápida.
+
+Verifricação
+João Henrique: OK

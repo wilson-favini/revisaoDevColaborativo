@@ -10,3 +10,6 @@ software, que aumentam o tempo de espera.
 	  8- Complexidade e eficiência
 	  9- Mudanças durante o desenvolvimento de software
 	 10- Dificuldades na utilização do produto
+
+Verifricação
+João Henrique: OK

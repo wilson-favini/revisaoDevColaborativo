@@ -4,3 +4,6 @@ Passo 1: Baixar novamente o repositório em um novo diretório
 Passo 2: Copiar todos os arquivos, do diretório antigo, exceto o arquivo com conflito;
 Passo 3: Editar o arquivo com conflito no novo diretório
 Passo 4: git add –u ; git commit –m “sua mensagem”; git push.
+
+Verifricação
+João Henrique: OK
