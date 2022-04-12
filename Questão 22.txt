@@ -11,5 +11,6 @@ software, que aumentam o tempo de espera.
 	  9- Mudanças durante o desenvolvimento de software
 	 10- Dificuldades na utilização do produto
 
-Verifricação
+Verificação
 João Henrique: OK
+Wilson coxev: Ok

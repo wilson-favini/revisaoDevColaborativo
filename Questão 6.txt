@@ -12,5 +12,6 @@ Integração Contínua: é uma prática de desenvolvimento de software de DevOps
 
 CI/CD: O objetivo geral do CI/CD e do DevOps é acelerar o processo de entrega de software de valor aos usuários sem comprometer sua qualidade. Os princípios do DevOps se sobrepõem e complementam as ideias ágeis e Lean. 
 
-Verifricação
+Verificação
 João Henrique: OK
+Wilson coxev: Ok

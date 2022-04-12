@@ -1,5 +1,6 @@
 Questão 11: Como seria o DevOps ideal em uma organização de desenvolvimento desoftware?
 	R: Total altonomia para otimizar o fluxo de trabalho
 
-Verifricação
+Verificação
 João Henrique: OK
+Wilson coxev: Ok

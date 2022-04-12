@@ -1,5 +1,6 @@
 31. O que é a otimização de qualidade para o próximo no fluxo de trabalho?
 Otimização do fluxo de trabalho através da metodologia LEAN. O principal objetivo do LEAN é manter a qualidade da produção com menos trabalho e reduzir o tempo entre o pedido do cliente e a entrega do resultado final, reduzindo ou eliminando “resíduos” (trabalhos sem valor agregado).
 
-Verifricação
+Verificação
 João Henrique: OK
+Wilson coxev: Ok

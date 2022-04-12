@@ -2,5 +2,6 @@ Questão 32 - O que é FeedForward?
 	R: Avaliação que tenta prever problemas que podem ocorrer e prepara soluções de forma 
 antecipada
 
-Verifricação
+Verificação
 João Henrique: OK
+Wilson coxev: Ok

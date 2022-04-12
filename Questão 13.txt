@@ -11,5 +11,6 @@ Questão 13: Indique 10 desperdícios de recursos que podem ocorrer no processo 
 	  10- Upload incorreto de versionamento 
 		
 
-Verifricação
+Verificação
 João Henrique: OK
+Wilson coxev: Ok

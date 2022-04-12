@@ -3,5 +3,6 @@ Questão 30 - O que é aprimorar a qualidade na origem na visão do desenvolvime
 produção, durante a execução do processo.
 
 
-Verifricação
+Verificação
 João Henrique: OK
+Wilson coxev: Ok

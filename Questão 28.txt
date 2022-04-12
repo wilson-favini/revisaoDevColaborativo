@@ -5,5 +5,6 @@ comportamento dos componentes, Muitas vezes, fazer a mesma coisa duas vezes pode
 resultados diferentes, Imprevisibilidade, Listas de verificação podem não ser suficientes na 
 prevenção de tragédias em sistemas complexos.
 
-Verifricação
+Verificação
 João Henrique: OK
+Wilson coxev: Ok

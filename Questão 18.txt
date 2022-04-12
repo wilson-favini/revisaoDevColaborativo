@@ -1,5 +1,6 @@
 Questão 18 - Por que temos que identificar os gargalos e tentar suprimí-los na otimização de um processo?
 	R:Os gargalos limitam a velocidade de produção, causando disperdicio de tempo e dinheiro, assim, uma vez que sejam eliminados o desenvolvimento se torna mais rapido e eficaz.
 
-Verifricação
+Verificação
 João Henrique: OK
+Wilson coxev: Ok

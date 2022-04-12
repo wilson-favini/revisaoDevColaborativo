@@ -1,5 +1,6 @@
 20. Cite algumas formas diminuir o trabalho em espera (WIP).
 realizar uma Análise previa das tarefas a serem feitas, é importante para um bom planejamento, evitando problemas com prazos e execução de gestão de tarefas. outra forma interessante a ser citada é, definir um limite de trabalho em progresso simultâneos(WIP), com isso irá diminuir as chances de perda de foco e redução da produtividade.
 
-Verifricação
+Verificação
 João Henrique: OK
+Wilson coxev: Ok

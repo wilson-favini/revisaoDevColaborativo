@@ -1,5 +1,6 @@
 Questão 15 - O que é kanban.
 	R: Kanban é um sistema visual de gestão de trabalho, que busca conduzir cada tarefa por um fluxo predefinido de trabalho.
 
-Verifricação
+Verificação
 João Henrique: OK
+Wilson coxev: Ok

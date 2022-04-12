@@ -3,5 +3,6 @@ Questão 26 Qual a vantagem de se utilizar tantos fluxos de informações?
 resolver e que podem gerar grandes prejuízos no futuro ou se tornarem caros, permite uma 
 aproximação ainda maior do que o cliente necessita na aplicação.
 
-Verifricação
+Verificação
 João Henrique: OK
+Wilson coxev: Ok

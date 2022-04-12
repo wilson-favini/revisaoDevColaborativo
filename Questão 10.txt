@@ -1,5 +1,6 @@
 Questão 10: O que é fluxo de valor ? Qual a diferença deste conceito na manufatura e natecnologia?
 	R: O fluxo de valor se refere a todas as ações necessárias para transformar um produto ou serviço de um mero conceito ou matéria-prima para a fase acabada. Cada ação agrega valor ao produto acabado, idealmente trabalhando juntos de forma eficiente para criar um fluxo contínuo de valor.
 	
-Verifricação
+Verificação
 João Henrique: OK
+Wilson coxev: Ok

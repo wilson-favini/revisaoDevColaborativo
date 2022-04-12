@@ -1,4 +1,5 @@
 Façam um grupo de 3. Criem um repositório no github para responder às questões abaixo.Dividam as tarefas usando um quadro kanban. Cada questão deve ser respondida por umaluno e revisada pelos outros 2. As respostas devem constar no repositório github criado. Deveaparecer um “commit” com as respostas e revisões de cada aluno. Mandem um link dorepositório criado como resposta e incluam no AVA, juntamente com o nome de todos osparticipantes do grupo.
 
-Verifricação
+Verificação
 João Henrique: OK
+wilson coxev: Ok

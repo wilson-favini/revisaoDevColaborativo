@@ -1,5 +1,6 @@
 21. Cite algumas formas de diminuir o tempo de espera do clientes.
 Em engenharia de software, temos vários métodos que irá definir o modelo de desenvolvimento, que pode impactar no tempo de espera do cliente. considerando um projeto de pequeno e médio porte, poderá utilizar o que chamamos de metodologias Ágeis para diminuir o tempo de espera, focando em entregas menores, e obtendo assim o retorno do cliente
 
-Verifricação
+Verificação
 João Henrique: OK
+Wilson coxev: Ok

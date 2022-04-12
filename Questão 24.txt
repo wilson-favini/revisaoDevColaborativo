@@ -4,5 +4,6 @@ ambiente, as equipes de DevOps podem automatizar o mecanismo de feedback enquant
 monitoram os aplicativos em tempo real. Tudo o que pode ser monitorado pode ser medido e, 
 assim, melhorado.
 
-Verifricação
+Verificação
 João Henrique: OK
+Wilson coxev: Ok

@@ -1,5 +1,6 @@
 Questão 8: Qual é o foco principal do DevOps?
 	R: Organizar o trabalho colaborativo para otimizar o trabalho permitindo maxima eficiencia
 
-Verifricação
+Verificação
 João Henrique: OK
+Wilson coxev: Ok

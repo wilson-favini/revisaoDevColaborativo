@@ -2,5 +2,6 @@ Questão 25 - Do ponto de vista do aprimoramento de “feedback”, como podemos
 	R:Feedbacks rápido e frequentes, com informações de qualidade para que possa se 
 localizar problemas ou pontos de aprimoramento, feitos de forma organizada.
 
-Verifricação
+Verificação
 João Henrique: OK
+Wilson coxev: Ok

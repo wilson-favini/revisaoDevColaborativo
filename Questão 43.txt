@@ -1,5 +1,6 @@
 43. Quais as vantagens de se utilizar um sistema de controle deversões?
 Uma das principais vantagens é o trabalho em equipe. Um sistema de controle de versão permite que diversas pessoas trabalhem sobre o mesmo conjunto de documentos ao mesmo tempo e minimiza o desgaste provocado por problemas com conflitos de edições.
 
-Verifricação
+Verificação
 João Henrique: OK
+Wilson coxev: Ok

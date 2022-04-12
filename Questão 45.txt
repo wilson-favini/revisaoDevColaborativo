@@ -5,5 +5,6 @@ Passo 2: Copiar todos os arquivos, do diretório antigo, exceto o arquivo com co
 Passo 3: Editar o arquivo com conflito no novo diretório
 Passo 4: git add –u ; git commit –m “sua mensagem”; git push.
 
-Verifricação
+Verificação
 João Henrique: OK
+Wilson coxev: Ok

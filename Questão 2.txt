@@ -1,5 +1,6 @@
 Questão2: O que é desenvolvimento colaborativo de software?
 	R:É composto de um ambiente integrado de desenvolvimento de software, de um sistema de controle de código-fonte, de um sistema de gerenciamento de erros e defeitos, e com a integração de sistemas colaborativos como bate-papo e mecanismos de percepção do contexto do trabalho em grupo.
 
-Verifricação
+Verificação
 João Henrique: OK
+Wilson coxev: Ok
